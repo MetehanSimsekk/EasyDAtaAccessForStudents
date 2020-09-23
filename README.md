@@ -1,3 +1,3 @@
 # Easy-DataAccess-for-Students
-## Windows Form App
+## Windows Form Application
 Sql does not contain data
